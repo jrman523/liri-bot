@@ -11,7 +11,7 @@ const bandsKey = keys.bands.apiKey;
 
 
 const cmd = process.argv[2];
-const input = process.argv[3];
+const input = process.argv[3]; 
 
 
 switch (cmd) {
