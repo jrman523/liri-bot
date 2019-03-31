@@ -6,12 +6,15 @@ const fs = require("fs");
 const moment = require("moment");
 
 const spotify = new Spotify(keys.spotify);
-// const omdbKey = keys.omdb.apiKey;
-// const bandsKey = keys.bands.apiKey;
+const omdbKey = keys.omdb.apiKey;
+const bandsKey = keys.bands.apiKey;
 
 
 const cmd = process.argv[2];
-const input = process.argv[3];
+const input = process.argv.slice(3).join(" ");
+
+// current time
+const current = moment().format("MM-DD-YYYY-LTS");
 
 
 switch (cmd) {
@@ -39,12 +42,12 @@ switch (cmd) {
         console.log('\nTry again');
 }
 
-function error(data) {
-    console.log('\nError occurred WHEN SEARCHING FOR ' + data);
+function error(error) {
+    console.log(error);
 }
 
 function getConcert(artist) {
-    var bandUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    var bandUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + bandsKey;
     axios.get(bandUrl).then(function (res) {
         var response = res.data;
         for (let i = 0; response.length; i++) {
@@ -52,11 +55,14 @@ function getConcert(artist) {
             console.log("\n The venue is in " + response[i].venue.country + "," + response[i].venue.city);
             console.log("\n The date of the venue is " + moment(response[i].datetime).format("MM/DD/YYYY"));
         }
-    });
+    })
+        .catch(function (err) {
+            error(err);
+        });
 }
 
 function spotifyThisSong(song) {
-    spotify.search({ type: 'track', query: song }, function (err, data) {
+    spotify.search({ type: 'track', query: song, limit: 1 }, function (err, data) {
         if (!err) {
             for (var i = 0; i < data.tracks.items.length; i++) {
                 var songData = data.tracks.items[i];
@@ -67,13 +73,13 @@ function spotifyThisSong(song) {
                 console.log("\n-----------------------\n");
             }
         } else {
-            error(song);
+            error(err);
         }
     });
 }
 
 function omdb(movie) {
-    var omdbURL = 'http://www.omdbapi.com/?t=' + movie + '&apikey=trilogy&plot=short&tomatoes=true';
+    var omdbURL = 'http://www.omdbapi.com/?t=' + movie + '&apikey=' + omdbKey + '&plot=short&tomatoes=true';
 
     axios.get(omdbURL).then(function (res) {
         if (movie === "Mr. Nobody") {
@@ -94,7 +100,10 @@ function omdb(movie) {
             console.log("\n Rotten Tomatoes URL: " + response.tomatoURL);
 
         }
-    });
+    })
+        .catch(function (err) {
+            error(err);
+        });
 }
 
 function readFile() {
