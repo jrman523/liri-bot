@@ -1,0 +1,175 @@
+
+ User Command: do-what-it-says
+
+ User Input: 
+
+-----------03-31-2019-7:11:05 PM---------------
+Artist: Backstreet Boys
+
+Song: I Want It That Way
+
+Album: Millennium
+
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+
+ User Command: do-what-it-says
+
+ User Input: 
+
+-----------03-31-2019-7:11:05 PM---------------
+Artist: Tyler and Mark
+
+Song: I Want It That Way
+
+Album: Beautiful Dreams
+
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+
+ User Command: do-what-it-says
+
+ User Input: 
+
+-----------03-31-2019-7:11:05 PM---------------
+Artist: Anthem Lights
+
+Song: I Want It That Way
+
+Album: Covers Part IV
+
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+
+ User Command: do-what-it-says
+
+ User Input: 
+
+-----------03-31-2019-7:11:05 PM---------------
+Artist: Backstreet Boys
+
+Song: I Want It That Way
+
+Album: The Hits--Chapter One
+
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+
+ User Command: do-what-it-says
+
+ User Input: 
+
+-----------03-31-2019-7:11:05 PM---------------
+Artist: "Weird Al" Yankovic
+
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+
+Album: Poodle Hat
+
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+
+ User Command: movie-this
+
+ User Input: incredibles
+
+-----------03-31-2019-7:11:20 PM---------------
+Title: The Incredibles
+
+Release Year: 2004
+
+IMDb Rating: 8.0
+
+Country: USA
+
+Language: English, French
+
+Plot: A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.
+
+Actors: Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee
+
+Rotten Tomatoes Rating: N/A
+
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/down-syndrome-the-first-18-months2004/
+------------------------------------------------------------
+
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------03-31-2019-7:11:36 PM---------------
+Artist: Juicy J
+
+Song: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+
+Preview URL: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------03-31-2019-7:11:36 PM---------------
+Artist: Die Antwoord
+
+Song: Enter The Ninja
+
+Album: $O$
+
+Preview URL: null
+------------------------------------------------------------
+
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------03-31-2019-7:11:36 PM---------------
+Artist: 3LAU
+
+Song: Game Time (feat. Ninja)
+
+Album: Game Time (feat. Ninja)
+
+Preview URL: null
+------------------------------------------------------------
+
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------03-31-2019-7:11:36 PM---------------
+Artist: Ninja Sex Party
+
+Song: Africa
+
+Album: Under the Covers, Vol. II
+
+Preview URL: https://p.scdn.co/mp3-preview/9722fcf4f4056936e42925a188cc7f5a5c5e22a9?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------03-31-2019-7:11:36 PM---------------
+Artist: Ninja Sex Party
+
+Song: Everybody Wants to Rule the World
+
+Album: Under the Covers
+
+Preview URL: https://p.scdn.co/mp3-preview/e72583f4bb225ac2cd391deb6d27c5e8ecc41571?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+

@@ -1,4 +1,3 @@
-require("dotenv").config();
 const keys = require("./keys.js");
 const Spotify = require('node-spotify-api');
 const axios = require("axios");
@@ -14,8 +13,8 @@ const cmd = process.argv[2];
 const input = process.argv.slice(3).join(" ");
 
 // current time
-const current = moment().format("MM-DD-YYYY-LTS");
-
+const current = "\n-----------" + moment().format("MM-DD-YYYY-LTS") + "---------------\n";
+const divider = "\n------------------------------------------------------------\n\n";
 
 switch (cmd) {
     case ('concert-this'):
@@ -46,14 +45,27 @@ function error(error) {
     console.log(error);
 }
 
+function append(data) {
+    var command = "\n User Command: " + cmd + "\n";
+    var userInput = "\n User Input: " + input + "\n";
+    fs.appendFile("log.txt", command + userInput + current + data + divider, function (err) {
+        if (err) throw err;
+        console.log(data);
+    });
+}
+
 function getConcert(artist) {
     var bandUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + bandsKey;
     axios.get(bandUrl).then(function (res) {
         var response = res.data;
         for (let i = 0; response.length; i++) {
-            console.log("\n Name of the venue : " + response[i].venue.name);
-            console.log("\n The venue is in " + response[i].venue.country + "," + response[i].venue.city);
-            console.log("\n The date of the venue is " + moment(response[i].datetime).format("MM/DD/YYYY"));
+            var showData = [
+                "Name of the venue : " + response[i].venue.name,
+                "The venue is in " + response[i].venue.country + "," + response[i].venue.city,
+                "The date of the venue is " + moment(response[i].datetime).format("MM/DD/YYYY")
+            ].join("\n\n");
+
+            append(showData);
         }
     })
         .catch(function (err) {
@@ -62,15 +74,18 @@ function getConcert(artist) {
 }
 
 function spotifyThisSong(song) {
-    spotify.search({ type: 'track', query: song, limit: 1 }, function (err, data) {
+    spotify.search({ type: 'track', query: song, limit: 3 }, function (err, data) {
         if (!err) {
             for (var i = 0; i < data.tracks.items.length; i++) {
                 var songData = data.tracks.items[i];
-                console.log("\n Artist: " + songData.artists[0].name);
-                console.log("\n Song: " + songData.name);
-                console.log("\n Album: " + songData.album.name);
-                console.log("\n Preview URL: " + songData.preview_url);
-                console.log("\n-----------------------\n");
+                var showData = [
+                    "Artist: " + songData.artists[0].name,
+                    "Song: " + songData.name,
+                    "Album: " + songData.album.name,
+                    "Preview URL: " + songData.preview_url
+                ].join("\n\n");
+
+                append(showData);
             }
         } else {
             error(err);
@@ -83,22 +98,29 @@ function omdb(movie) {
 
     axios.get(omdbURL).then(function (res) {
         if (movie === "Mr. Nobody") {
-            console.log("\n If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
-            console.log("\n It's on Netflix!");
+            var Nobody = [
+                "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/",
+                "It's on Netflix!"
+            ].join("\n\n");
+
+            append(Nobody);
 
         } else {
             var response = res.data;
 
-            console.log("\n Title: " + response.Title);
-            console.log("\n Release Year: " + response.Year);
-            console.log("\n IMdB Rating: " + response.imdbRating);
-            console.log("\n Country: " + response.Country);
-            console.log("\n Language: " + response.Language);
-            console.log("\n Plot: " + response.Plot);
-            console.log("\n Actors: " + response.Actors);
-            console.log("\n Rotten Tomatoes Rating: " + response.tomatoRating);
-            console.log("\n Rotten Tomatoes URL: " + response.tomatoURL);
+            var showData = [
+                "Title: " + response.Title,
+                "Release Year: " + response.Year,
+                "IMDb Rating: " + response.imdbRating,
+                "Country: " + response.Country,
+                "Language: " + response.Language,
+                "Plot: " + response.Plot,
+                "Actors: " + response.Actors,
+                "Rotten Tomatoes Rating: " + response.tomatoRating,
+                "Rotten Tomatoes URL: " + response.tomatoURL
+            ].join("\n\n");
 
+            append(showData);
         }
     })
         .catch(function (err) {
