@@ -14,11 +14,11 @@ const input = process.argv.slice(3).join(" ");
 
 // current time
 const current = "\n-----------" + moment().format("MM-DD-YYYY-LTS") + "---------------\n";
-const divider = "\n------------------------------------------------------------\n\n";
+const divider = "\n------------------------------------------------------------\n";
 
 switch (cmd) {
     case ('concert-this'):
-        getConcert();
+        getConcert(input);
         break;
     case ('spotify-this-song'):
         if (input) {
@@ -62,7 +62,8 @@ function getConcert(artist) {
             var showData = [
                 "Name of the venue : " + response[i].venue.name,
                 "The venue is in " + response[i].venue.country + "," + response[i].venue.city,
-                "The date of the venue is " + moment(response[i].datetime).format("MM/DD/YYYY")
+                "The date of the venue is " + moment(response[i].datetime).format("MM/DD/YYYY"),
+                divider
             ].join("\n\n");
 
             append(showData);

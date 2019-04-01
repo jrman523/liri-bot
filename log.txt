@@ -173,3 +173,409 @@ Album: Under the Covers
 Preview URL: https://p.scdn.co/mp3-preview/e72583f4bb225ac2cd391deb6d27c5e8ecc41571?cid=9f8cd04b12674567bcc525a46e255409
 ------------------------------------------------------------
 
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/02/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/04/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/05/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/08/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/09/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/11/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/16/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : SPORTPALEIS
+
+The venue is in Belgium,Merksem
+
+The date of the venue is 04/19/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/25/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/26/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : Encore Theater at Wynn Las Vegas
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/04/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : XS Nightclub
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/18/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : Cidade do Rock
+
+The venue is in Brazil,Rio De Janeiro
+
+The date of the venue is 09/27/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:48:19 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/15/2019
+------------------------------------------------------------
+
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/02/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/04/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/09/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/05/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/11/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/08/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/15/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/16/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : SPORTPALEIS
+
+The venue is in Belgium,Merksem
+
+The date of the venue is 04/19/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/25/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/26/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : Encore Theater at Wynn Las Vegas
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/04/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : Cidade do Rock
+
+The venue is in Brazil,Rio De Janeiro
+
+The date of the venue is 09/27/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-01-2019-1:50:08 AM---------------
+Name of the venue : XS Nightclub
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/18/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
