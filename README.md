@@ -52,4 +52,4 @@ LIRI is a command line node app that takes in parameters and gives you back data
    
 4. `node liri.js movie-this '<do-what-it-says>'`
 
-  * This is a surprise try it out and see what it does
+    * This is a surprise try it out and see what it does
