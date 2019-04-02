@@ -24,14 +24,14 @@ switch (cmd) {
         if (input) {
             spotifyThisSong(input);
         } else {
-            spotifyThisSong("My Heart Will Go On");
+            spotifyThisSong("The Sign");
         }
         break;
     case ('movie-this'):
         if (input) {
             omdb(input);
         } else {
-            omdb("Crazy, Stupid, Love.");
+            omdb("Mr. Nobody.");
         }
         break;
     case ('do-what-it-says'):
