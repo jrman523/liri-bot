@@ -49,3 +49,7 @@ LIRI is a command line node app that takes in parameters and gives you back data
        * Actors in the movie.
 
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+   
+4. `node liri.js movie-this '<do-what-it-says>'`
+
+  * This is a surprise try it out and see what it does
