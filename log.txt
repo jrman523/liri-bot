@@ -579,3 +579,583 @@ The date of the venue is 05/18/2019
 ------------------------------------------------------------
 
 ------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/04/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/05/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : BLOODY LOUIS
+
+The venue is in Belgium,Bruxelles
+
+The date of the venue is 04/13/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/11/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/09/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/15/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/16/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : SPORTPALEIS
+
+The venue is in Belgium,Merksem
+
+The date of the venue is 04/19/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/25/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/26/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/08/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : Cidade do Rock
+
+The venue is in Brazil,Rio De Janeiro
+
+The date of the venue is 09/27/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : XS Nightclub
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/18/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:24:20 AM---------------
+Name of the venue : Encore Theater at Wynn Las Vegas
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/04/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/04/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : The O2
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/05/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/08/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/09/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : The O2 Arena
+
+The venue is in United Kingdom,London
+
+The date of the venue is 04/11/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/15/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/16/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : SPORTPALEIS
+
+The venue is in Belgium,Merksem
+
+The date of the venue is 04/19/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/25/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : Encore Theater at Wynn Las Vegas
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/04/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : Cidade do Rock
+
+The venue is in Brazil,Rio De Janeiro
+
+The date of the venue is 09/27/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : Ziggo Dome
+
+The venue is in Netherlands,Amsterdam
+
+The date of the venue is 04/26/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : BLOODY LOUIS
+
+The venue is in Belgium,Bruxelles
+
+The date of the venue is 04/13/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: concert-this
+
+ User Input: drake
+
+-----------04-03-2019-2:29:20 AM---------------
+Name of the venue : XS Nightclub
+
+The venue is in United States,Las Vegas
+
+The date of the venue is 05/18/2019
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------04-03-2019-2:30:18 AM---------------
+Artist: Ninja
+
+Song: Naa Bolda
+
+Album: Punjab Singh
+
+Preview URL: https://p.scdn.co/mp3-preview/33c5519742e98b34f09f79fc9caf8cab6683a82e?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------04-03-2019-2:30:18 AM---------------
+Artist: Ninja
+
+Song: Halla Maar
+
+Album: Punjab Singh
+
+Preview URL: https://p.scdn.co/mp3-preview/07125c8b2fc66f8066ce9ea06d1d5a5d44ebfaad?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------04-03-2019-2:30:18 AM---------------
+Artist: Ninja
+
+Song: Hawa De Warke
+
+Album: Channa Mereya (Original Motion Picture Soundtrack)
+
+Preview URL: https://p.scdn.co/mp3-preview/4378f401a0afbbdb8b69c57893b298f91b46c013?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------04-03-2019-2:30:53 AM---------------
+Artist: Ninja
+
+Song: Halla Maar
+
+Album: Punjab Singh
+
+Preview URL: https://p.scdn.co/mp3-preview/07125c8b2fc66f8066ce9ea06d1d5a5d44ebfaad?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------04-03-2019-2:30:53 AM---------------
+Artist: Ninja
+
+Song: Naa Bolda
+
+Album: Punjab Singh
+
+Preview URL: https://p.scdn.co/mp3-preview/33c5519742e98b34f09f79fc9caf8cab6683a82e?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+ User Command: spotify-this-song
+
+ User Input: ninja
+
+-----------04-03-2019-2:30:53 AM---------------
+Artist: Ninja
+
+Song: Hawa De Warke
+
+Album: Channa Mereya (Original Motion Picture Soundtrack)
+
+Preview URL: https://p.scdn.co/mp3-preview/4378f401a0afbbdb8b69c57893b298f91b46c013?cid=9f8cd04b12674567bcc525a46e255409
+------------------------------------------------------------
+
+ User Command: movie-this
+
+ User Input: incredibles
+
+-----------04-03-2019-2:33:21 AM---------------
+Title: The Incredibles
+
+Release Year: 2004
+
+IMDb Rating: 8.0
+
+Country: USA
+
+Language: English, French
+
+Plot: A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.
+
+Actors: Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee
+
+Rotten Tomatoes Rating: N/A
+
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/down-syndrome-the-first-18-months2004/
+------------------------------------------------------------
+
+ User Command: movie-this
+
+ User Input: incredibles
+
+-----------04-03-2019-2:33:35 AM---------------
+Title: The Incredibles
+
+Release Year: 2004
+
+IMDb Rating: 8.0
+
+Country: USA
+
+Language: English, French
+
+Plot: A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.
+
+Actors: Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee
+
+Rotten Tomatoes Rating: N/A
+
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/down-syndrome-the-first-18-months2004/
+------------------------------------------------------------
